@@ -1,0 +1,7 @@
+ultralytics==8.3.23
+torch>=2.2.0
+opencv-python==4.9.0.80
+numpy>=1.24.0
+onnx>=1.15.0
+onnxruntime>=1.17.0
+Pillow>=10.0.0
